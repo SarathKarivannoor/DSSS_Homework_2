@@ -66,7 +66,7 @@ def math_quiz():
  
         print(f"\nQuestion: {problem}")
         
-        #Get user answer input and typecast to integer data type 
+        #Get user answer input  
         user_answer = input("Your answer: ")
         
         #Check whether the given input is a valid number 
